@@ -15,11 +15,6 @@ public class Exercise02 {
         int input = scanner.nextInt();
         int result = indexOf(input);
         System.out.println("result = " + result);
-
-
-
-
-
     }
 
     //a method with name ‘indexOf’
