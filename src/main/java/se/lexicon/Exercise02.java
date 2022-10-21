@@ -17,6 +17,9 @@ public class Exercise02 {
         System.out.println("result = " + result);
 
 
+
+
+
     }
 
     //a method with name ‘indexOf’
