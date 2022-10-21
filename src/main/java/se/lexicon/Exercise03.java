@@ -11,7 +11,8 @@ public class Exercise03 {
      * Sort string array: [London, New York, Paris, Stockholm]
      */
     public static void ex3() {
-        String[] cityNames = {"Paris", "London", "New York", "Stockholm"};
+        //This is my first solution to solve it
+        /*String[] cityNames = {"Paris", "London", "New York", "Stockholm"};
         int size = cityNames.length;
 
         for (int i = 0; i < size ; i++) {
@@ -23,7 +24,15 @@ public class Exercise03 {
                 }
             }
         }
-        System.out.println(Arrays.toString(cityNames));
+        System.out.println(Arrays.toString(cityNames));*/
+
+        //but this is much better and easier way :-)
+        String[] cityNames = {"Paris", "London", "New York", "Stockholm"};
+
+        System.out.println("Unsorted Cities: " + Arrays.toString(cityNames));
+        Arrays.sort(cityNames);
+
+        System.out.println("Sorted Cities: " + Arrays.toString(cityNames));
 
     }
 
