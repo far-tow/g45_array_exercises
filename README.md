@@ -1,8 +1,9 @@
 # Array Exercises
 
-Group Name **[group_name]**
+Group Name **G4**
 
-1. [student name]
-2. [student name]
-3. [student name]
-4. [student name]
+1. Liljana
+2. Nivethitha
+3. Samuel
+4. Farhad
+5. Veronica
