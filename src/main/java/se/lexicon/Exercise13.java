@@ -26,8 +26,8 @@ public class Exercise13 {
 
     }
 
+    System.out.print(Arrays.toString(array2));
     System.out.println(Arrays.toString(array1));
-    System.out.println(Arrays.toString(array2));
 
   }
 
