@@ -15,6 +15,8 @@ public class Exercise01 {
         for (int i = 0; i < size; i++) {
             System.out.println(myNum[i]);
 
+
+
         }
 
     }
