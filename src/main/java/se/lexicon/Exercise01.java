@@ -14,9 +14,6 @@ public class Exercise01 {
         int size = myNum.length;
         for (int i = 0; i < size; i++) {
             System.out.println(myNum[i]);
-
-
-
         }
 
     }
